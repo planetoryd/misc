@@ -1,0 +1,19 @@
+~$ wget https://marketplace.visualstudio.com/_apis/public/gallery/publishers/nvarner/vsextensions/typst-lsp/0.12.0/vspackage?targetPlatform=linux-x64
+--2023-12-10 19:33:38--  https://marketplace.visualstudio.com/_apis/public/gallery/publishers/nvarner/vsextensions/typst-lsp/0.12.0/vspackage?targetPlatform=linux-x64
+Resolving marketplace.visualstudio.com (marketplace.visualstudio.com)... 198.18.0.0
+Connecting to marketplace.visualstudio.com (marketplace.visualstudio.com)|198.18.0.0|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20658297 (20M) [application/vsix]
+Saving to: ‘vspackage?targetPlatform=linux-x64’
+
+vspackage?targetPlatform=linux-x64      53%[========================================>                                    ]  10.59M  2.59MB/s    in 6.9s    
+
+2023-12-10 19:33:56 (1.53 MB/s) - Read error at byte 11108352/20658297 (The TLS connection was non-properly terminated.). Retrying.
+
+--2023-12-10 19:33:57--  (try: 2)  https://marketplace.visualstudio.com/_apis/public/gallery/publishers/nvarner/vsextensions/typst-lsp/0.12.0/vspackage?targetPlatform=linux-x64
+Connecting to marketplace.visualstudio.com (marketplace.visualstudio.com)|198.18.0.0|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20658297 (20M) [application/vsix]
+Saving to: ‘vspackage?targetPlatform=linux-x64’
+
+vspackage?targetPlatform=linux-x64       0%[                                                                             ]       0  --.-KB/s               ^C
