@@ -1,0 +1,17 @@
+ wget "https://marketplace.visualstudio.com/_apis/public/gallery/publishers/nvarner/vsextensions/typst-lsp/0.12.0/vspackage?targetPlatform=linux-x64"
+--2023-12-11 14:47:38--  https://marketplace.visualstudio.com/_apis/public/gallery/publishers/nvarner/vsextensions/typst-lsp/0.12.0/vspackage?targetPlatform=linux-x64
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving marketplace.visualstudio.com (marketplace.visualstudio.com)... 198.18.0.0
+Connecting to marketplace.visualstudio.com (marketplace.visualstudio.com)|198.18.0.0|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20658297 (20M) [application/vsix]
+Saving to: ‘vspackage?targetPlatform=linux-x64’
+
+vspackage?targetPlatform=linux-x64                    18%[=====================>                                                                                                 ]   3.71M   952KB/s    in 5.5s    
+
+2023-12-11 14:47:47 (695 KB/s) - Read error at byte 3887104/20658297 (Error decoding the received TLS packet.). Retrying.
+
+--2023-12-11 14:47:48--  (try: 2)  https://marketplace.visualstudio.com/_apis/public/gallery/publishers/nvarner/vsextensions/typst-lsp/0.12.0/vspackage?targetPlatform=linux-x64
+Connecting to marketplace.visualstudio.com (marketplace.visualstudio.com)|198.18.0.0|:443... connected.
+HTTP request sent, awaiting response... 429 
+2023-12-11 14:47:49 ERROR 429: (no description).
